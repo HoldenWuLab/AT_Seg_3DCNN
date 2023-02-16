@@ -157,7 +157,7 @@ def count_parameters(model):
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
 
 num_param = count_parameters(model)
-print("Number of parameters for 3D BA Comp DenseUNet is: " + str(num_param))
+print("Number of parameters for ACD 3D UNet is: " + str(num_param))
 
 
 # Start Training
