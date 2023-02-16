@@ -1,5 +1,5 @@
 # ACD3DUNet
-Attention-based competitive dense (ACD) 3D U-Net with a novel frequency balancing Dice loss to segment subcutaneous and visceral adipose tissue (SAT/VAT) !
+Attention-based competitive dense (ACD) 3D U-Net with a novel frequency balancing Dice loss to segment subcutaneous and visceral adipose tissue (SAT/VAT)
 
 This page shared the codes for the manuscript submitted to Journal of Magnetic Resonance in Medicine under the title "Evaluation of Automated Abdominal Adipose Tissue Segmentation and Volume Quantification using 3D Convolutional Neural Networks with Multi-Contrast MRI Inputs"
 
