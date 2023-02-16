@@ -12,7 +12,7 @@ Full-volume multi-contrast inputs. Opposed phase echo image (TE_{OP}), W and F i
 ### Outputs: 
 (1) SAT mask \
 (2) VAT mask \
-(3) Background mask \
+(3) Background mask 
 
 ## Usage
 ACD 3D U-Net is a segmentation network specifically desogned for abdominal SAT and VAT segmentation. There are some initial and simple pre-processing steps that are performed once the input h5 files are read and converted to numpy arrays. 
