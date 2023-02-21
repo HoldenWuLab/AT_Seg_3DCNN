@@ -29,3 +29,7 @@ Loss function choice: \
 (1) 3D Standard Weighted Dice Loss (WDL) \
 (2) 3D Frequency Balancing Boudnary Emphasizing Dice Loss (FBDL)
 Different parameter settings are required for WDL and FBDL. The example code in main.py here uses FBDL. 
+
+Funding: \
+Research reported in this publication was supported by the National Institute Of Diabetes And Digestive And Kidney Diseases of the National Institutes of Health under Award Number R01DK124417. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
