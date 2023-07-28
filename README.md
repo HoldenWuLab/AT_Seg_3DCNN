@@ -35,6 +35,10 @@ Research reported in this publication was supported by the National Institute Of
 
 Licensing: \
 The code for the 3D convolutional neural networks (CNNs) is available at https://github.com/HoldenWuLab/ACD3DUNet under an Academic Software License: © 2023 UCLA (“Institution”).
-The final weights for the trained 3D CNNs are available at https://github.com/HoldenWuLab/ACD3DUNet and can be used under a non-commercial Creative Commons (Attribution-NonCommercial-NoDerivatives 4.0 International) license.
+The final weights for the trained 3D CNNs are available at https://github.com/HoldenWuLab/ACD3DUNet and can be used under a non-commercial Creative Commons (Attribution-NonCommercial-NoDerivatives 4.0 International) license. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+For more information, please visit: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 
