@@ -1,7 +1,7 @@
 # ACD 3D UNet
 Attention-based competitive dense (ACD) 3D U-Net with a novel frequency balancing Dice loss to segment subcutaneous and visceral adipose tissue (SAT/VAT)
 
-This page shared the codes for the manuscript submitted to Journal of Magnetic Resonance Imaging under the title "Evaluation of Automated Abdominal Adipose Tissue Segmentation and Volume Quantification using 3D Convolutional Neural Networks with Multi-Contrast MRI Inputs"
+This page shared the codes for the manuscript submitted to Magnetic Resonance Materials in Physics, Biology and Medicine under the title "Automated Abdominal Adipose Tissue Segmentation and Volume Quantification on Longitudinal MRI using 3D Convolutional Neural Networks with Multi-Contrast Inputs"
 
 ## Overview
 Subcutaneous and visceral adipose tissue (SAT/VAT) are potential biomarkers of risk for metabolic diseases. Manual segmentation of SAT/VAT on MRI is the reference standard but is challenging to deploy. Emerging neural networks for automated segmentation still have suboptimal VAT segmentation performance. A recently proposed attention-based competitive dense (ACD) 3D U-Net leverages full field-of-view volumetric multi-contrast MRI inputs (opposed phase echo image, water image, and fat image) and a novel loss function, requency balancing dice loss (FBDL), designed for VAT.
