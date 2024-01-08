@@ -37,7 +37,7 @@ Weights: \
 Please follow this link to access the weights for 3D nnU-Net+WDL, ACD 3D U-Net+FBDL and 3D U-Net+WDL: https://drive.google.com/drive/folders/1sbVXqpyOQs1EZ9zvRxhIe6tUU3YhHvuy?usp=drive_link
 
 Licensing: \
-Code: The code for the 3D convolutional neural networks (CNNs) is available at https://github.com/HoldenWuLab/ACD3DUNet under an Academic Software License: © 2023 UCLA (“Institution”).
+Code: The code for the 3D convolutional neural networks (CNNs) is available at https://github.com/HoldenWuLab/AT_Seg_3DCNN under an Academic Software License: © 2023 UCLA (“Institution”).
 
 Neural network weights: The final weights for the trained 3D CNNs can be used under a non-commercial Creative Commons (Attribution-NonCommercial-NoDerivatives 4.0 International) license. <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />The final neural network weights of this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 For more information, please visit: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
