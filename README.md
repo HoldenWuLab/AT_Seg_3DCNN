@@ -33,6 +33,9 @@ Different parameter settings are required for WDL and FBDL. The example code in 
 Funding: \
 Research reported in this publication was supported by the National Institute Of Diabetes And Digestive And Kidney Diseases of the National Institutes of Health under Award Number R01DK124417. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
 
+Weights: \
+Please follow this link to access the weights for 3D nnU-Net+WDL and ACD 3D U-Net+FBDL: https://drive.google.com/drive/folders/1sbVXqpyOQs1EZ9zvRxhIe6tUU3YhHvuy?usp=drive_link
+
 Licensing: \
 Code: The code for the 3D convolutional neural networks (CNNs) is available at https://github.com/HoldenWuLab/ACD3DUNet under an Academic Software License: © 2023 UCLA (“Institution”).
 
