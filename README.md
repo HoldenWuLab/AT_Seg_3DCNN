@@ -1,5 +1,10 @@
 # Automated Abdominal Adipose Tissue Segmentation and Volume Quantification on Longitudinal MRI using 3D Convolutional Neural Networks with Multi-Contrast Inputs
-This page shared the codes for the manuscript submitted to Magnetic Resonance Materials in Physics, Biology and Medicine under the title "Automated Abdominal Adipose Tissue Segmentation and Volume Quantification on Longitudinal MRI using 3D Convolutional Neural Networks with Multi-Contrast Inputs"
+This page shared the codes for the paper published in  Magnetic Resonance Materials in Physics, Biology and Medicine under the title "Automated Abdominal Adipose Tissue Segmentation and Volume Quantification on Longitudinal MRI using 3D Convolutional Neural Networks with Multi-Contrast Inputs"
+
+Please follow this link to access the paper:  https://link.springer.com/article/10.1007/s10334-023-01146-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240201&utm_content=10.1007/s10334-023-01146-3 
+
+Please cite this work if you use the code or the neural network weights: 
+Kafali, S.G., Shih, SF., Li, X. et al. Automated abdominal adipose tissue segmentation and volume quantification on longitudinal MRI using 3D convolutional neural networks with multi-contrast inputs. Magn Reson Mater Phy (2024). https://doi.org/10.1007/s10334-023-01146-3
 
 # 3D nnU-Net
 3D nnU-Net framework with weighted Dice loss (WDL) to segment subcutaneous and visceral adipose tissue (SAT/VAT)
