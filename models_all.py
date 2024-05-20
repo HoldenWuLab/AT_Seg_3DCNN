@@ -7,7 +7,7 @@ import math
 
 class ACD3DUNet(nn.Module):
     def __init__(self, input_channels, output_classes):
-        super(BACompDenseUNet3D, self).__init__()
+        super(ACD3DUNet, self).__init__()
         
         self.inconv  = inputConv_3D(input_channels,64)
         self.dblock1 = denseCompBlock3D(64,64)
