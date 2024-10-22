@@ -312,6 +312,15 @@ class upConcat_3D(nn.Module):
         # skip connections in U-Net
         out = torch.cat([down_outputs, outputs], 1)
         return out
+
+class Maxout(nn.Module):
+    def __init__(self):
+        super(Maxout, self).__init__()
+
+    def forward(self, input_layer):
+        # shape input = (layers(2), batch size, channels, height, width)
+        output_layer = torch.max(input_layer, dim=0).values 
+        return output_layer
     
     
 
