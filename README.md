@@ -1,6 +1,8 @@
 # Automated Abdominal Adipose Tissue Segmentation and Volume Quantification on Longitudinal MRI using 3D Convolutional Neural Networks with Multi-Contrast Inputs
 This page shared the codes for the paper published in  Magnetic Resonance Materials in Physics, Biology and Medicine under the title "Automated Abdominal Adipose Tissue Segmentation and Volume Quantification on Longitudinal MRI using 3D Convolutional Neural Networks with Multi-Contrast Inputs"
 
+Please reach out to Sevgi Gokce Kafali for further questions regarding the code. 
+
 Please cite this work if you use the code or the neural network weights: \
 Kafali, S. G., Shih, S.-F., Li, X., Kim, G. H. J., Kelly, T., Chowdhury, S., Loong, S., Moretz, J., Barnes, S. R., Li, Z., & Wu, H. Automated abdominal adipose tissue segmentation and volume quantification on longitudinal MRI using 3D convolutional neural networks with multi-contrast inputs. Magn Reson Mater Phy (2024). https://doi.org/10.1007/s10334-023-01146-3
 
